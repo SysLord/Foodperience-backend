@@ -1,6 +1,9 @@
 # SWR >> Codefest 2016 Backend
 
-User erstellen in einer Challenge aus vorgegebenen Zutaten kreative Rezepte und geben dabei anderen Inspiration.
+Created by team: 'rezept bot'
+For front-end see https://github.com/song-what/Foodperience
+
+Users can creative recipes from a random list of ingredients. Also recipes can be found by ingredients.
 
 ## Requirements
 
@@ -13,3 +16,23 @@ Build with maven
 java -jar rezeptbot.jar
 
 Open [http://localhost:8080](http://localhost:8080) to verify.
+
+<dl>
+<pre style="font: 10px/5px monospace;">
+
+
+                                                                                                    ;;;;;
+                                                                                          ;;;;;;;;;;;;;
+                                                                                       ;;;;;;;;;;;;;;;
+                                    ';;;;;;;                                     ;;;;;;;;;;;;;;;;;;;
+                                  ''';;;;;;;;;;;;;;                        ;;;;;;;;;;;;;;;;;;;;;;
+                    ''''''''''''''''';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+              ''''''''''''''''''''''';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+           '''''''''     '''''''''''';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+       '''''''''                '''';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+''''''''''''                    '''';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+'''''''''                           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ '''''                                                ;;;;;;;;
+Chili
+</pre>
+</dl>
